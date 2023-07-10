@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71B1B&center=true&vCenter=true&width=435&lines=Hi+there%2C+welcome+to+my+profile.;+Nice+to+meet+you!" alt="Typing SVG" /></a>
    
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+###  <div align="center"><img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:</div>
 <p align="center">
   Hi, I'm Ahmed Khatab, Frontend Developer from EGYPT
   <br>
